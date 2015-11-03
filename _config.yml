@@ -50,8 +50,9 @@ start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "Website idea but no design skills? No problem, Mummu is here to help!"
-  - text: "Dream big, tomorrow is here now."
-  - text: "Effective logo design solutions for free? Yes, why not?"
+  - text: "Dream big, tomorrow is here now: focus on your passion."
+  - text: "Effective logo design solutions for free? Check."
+  - text: "Free technical support? Absolutely."
 
 ########
 # Blog #
