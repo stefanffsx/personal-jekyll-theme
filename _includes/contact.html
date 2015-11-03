@@ -28,18 +28,18 @@
             {% endif %}
           {% endif %}
 
-<form action="//formspree.io/hello@mummu.tech"
+<div><form action="//formspree.io/hello@mummu.tech"
       method="POST" class="form">
     
     <input type="text" name="_replyto" placeholder="Your Email" class="field" />
     <input type="text" name="website" placeholder="Your Website" class="field" />
-    <br><br>
-    <textarea name="message" rows="5" placeholder="A few words.."></textarea>
+    <br>
+    <textarea name="message" rows="5" placeholder="A few words.."></textarea><br>
     <input type="hidden" name="_subject" value="Hello!" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="hidden" name="_next" value="http://mummu.tech/thanks.html" />
     <input type="submit" value="Send" class="submit" />
-</form>
+</form></div>
 <br>
 
           {% include social-buttons.html %}
