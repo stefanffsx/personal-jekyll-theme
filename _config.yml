@@ -1,16 +1,16 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://stefanffsx.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
 
-google-tracking-id: "UA-35880426-4"
+
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 
@@ -20,12 +20,12 @@ force-https: True
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Mummu.tech"
 lang: "en"
-title: "{ John Smith }"
+title: "Mummu.tech"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Free custom logo design solutions and tech assistance."
+keywords: "logo design, pro bono, web development"
 
 ################
 # Intro layout #
@@ -47,8 +47,9 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Website idea but no design skills? No problem, Mummu is here to help!"
+  - text: "Dream big, tomorrow is here now."
+  - text: "Effective logo design solutions for free? Yes, why not?"
 
 ########
 # Blog #
@@ -61,7 +62,7 @@ paginate: 5
 fb-share: True
 twitter-share: True
 reddit-share: True
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 ###############
 # Life Events #
@@ -82,7 +83,7 @@ career-img: "/img/career/default.png"
 # Contact layout #
 ##################
 
-email: "your@email.here"
+email: "hello [at] mummu [dot] tech"
 
 ##################
 # Social Buttons #
@@ -117,7 +118,7 @@ social:
 pages_list:
   About: 'about'
   Blog: 'blog'
-  Career: 'career'
+  
   Contact: 'contact'
 
 # Pagination path
