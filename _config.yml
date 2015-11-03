@@ -47,9 +47,9 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Need a custom logo for your website?"
-  - text: "Let Mummu design it for free."
-  - text: "From sketch to vector, it's all Mummu's job!"
+  - text: "Website idea but no design skills? No problem, Mummu is here to help!"
+  - text: "Dream big, tomorrow is here now."
+  - text: "Effective logo design solutions for free? Yes, why not?"
 
 ########
 # Blog #
