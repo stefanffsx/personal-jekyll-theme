@@ -33,7 +33,7 @@ keywords: "custom logo design, pro bono service, web development, creatives, ope
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "https://cloud.githubusercontent.com/assets/12776463/10918308/a3b97088-826d-11e5-9a6b-375b2d6a81c6.png"
 background-img: "../img/intro-bg.jpg"
 me-img: "/img/jetpacktocat.png"
 
