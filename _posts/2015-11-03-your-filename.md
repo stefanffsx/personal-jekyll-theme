@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## A New Post
 ![]({{site.baseurl}}/http://i.imgur.com/wrDRQSM.jpg)
