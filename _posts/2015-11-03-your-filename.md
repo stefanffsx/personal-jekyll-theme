@@ -4,8 +4,9 @@ layout: post
 "section-type": post
 category: tech
 tags: 
-  - tutorial
+  - pic
 ---
+
 
 
 
