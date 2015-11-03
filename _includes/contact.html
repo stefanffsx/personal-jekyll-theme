@@ -5,14 +5,6 @@
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
             
-<form action="//formspree.io/hello@mummu.tech"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name" />
-    <input type="text" name="_replyto" placeholder="Your Email" />
-    <input type="hidden" name="_subject" value="Hello!" />
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="submit" value="Send">
-</form>
           {{ page.content | markdownify }}
 
           {% if site.email %}
@@ -35,6 +27,15 @@
               <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
             {% endif %}
           {% endif %}
+
+<form action="//formspree.io/hello@mummu.tech"
+      method="POST">
+    <input type="text" name="name" placeholder="Your Name" />
+    <input type="text" name="_replyto" placeholder="Your Email" />
+    <input type="hidden" name="_subject" value="Hello!" />
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="submit" value="Send">
+</form>
 
           {% include social-buttons.html %}
 
