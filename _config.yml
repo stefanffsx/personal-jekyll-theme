@@ -92,14 +92,10 @@ email: "hello [at] mummu [dot] tech"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
+
   - title: "twitter"
     url: "https://twitter.com/"
-  - title: "youtube"
-    url: "https://youtube.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+
   - title: "rss"
     url: "/feed.xml"
 
