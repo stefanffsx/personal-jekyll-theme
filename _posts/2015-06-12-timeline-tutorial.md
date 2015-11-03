@@ -25,4 +25,4 @@ For each event of your life, add a tuple of image, date and description to the e
 Bellow the events variable there is the career-img.
 Set this path to the image that you want to show in the beginning of the timeline.
 
-Square images are most suited 😉
+Square images are most suited 😉 &#128522;
