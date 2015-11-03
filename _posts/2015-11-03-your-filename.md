@@ -1,6 +1,12 @@
 ---
 published: true
+layout: post
+"section-type": post
+category: tech
+tags: 
+  - tutorial
 ---
+
 
 
 ## A New Post
