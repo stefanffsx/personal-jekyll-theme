@@ -22,7 +22,7 @@ force-https: True
 
 author: "John Smith"
 lang: "en"
-title: "Mummu.design"
+title: "Mummu.tech"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
