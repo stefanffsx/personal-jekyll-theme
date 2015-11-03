@@ -10,7 +10,7 @@ url: "https://stefanffsx.github.io"
 
 
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 
@@ -22,7 +22,7 @@ force-https: True
 
 author: "John Smith"
 lang: "en"
-title: "{ John Smith }"
+title: "Mummu.design"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
