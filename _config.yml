@@ -20,12 +20,12 @@ force-https: True
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Mummu.tech"
 lang: "en"
 title: "Mummu.tech"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Free custom logo design solutions and tech assistance."
+keywords: "logo design, pro bono, web development"
 
 ################
 # Intro layout #
