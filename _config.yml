@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://stefanffsx.github.io"
+url: "http://mummu.tech"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -24,8 +24,11 @@ author: "Mummu.tech"
 lang: "en"
 title: "Mummu.tech"
 favicon: "/img/favicon.ico"
-description: "Free custom logo design solutions and tech assistance."
-keywords: "logo design, pro bono, web development"
+description: "Mummu exists to help humans share ideas with the world. 
+Every creative should have a website, without having to learn logo design, web design, html or css.
+Mummu is driven by passion alone and all works are pro bono, totally free!"
+"
+keywords: "custom logo design, pro bono service, web development, creatives, open source content, free design"
 
 ################
 # Intro layout #
